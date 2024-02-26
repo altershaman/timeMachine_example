@@ -1,0 +1,24 @@
+# # Метаданные пакета
+# $package:
+#   # Идентификатор пакета
+#   timeMachine_example:
+#     # Краткое название пакета
+#     name: Time Machine Example
+#     # Поставщик
+#     vendor: Sber & @altershaman
+#     # Описание
+#     description: Пример для timeMachine (Расширение SEAF)
+#     # Версия
+#     version: 0.1.0
+#     # Зависимости от других пакетов
+#     dependencies:
+#       timeMachine: ">=0.1.0"
+#       seaf-core: ">=1.2.3"
+#       hexagon: ">=1.1.0"
+#       dochub: ">=3.9.0"
+
+imports:
+  - architecture/timeMachine_models/horizons.yaml
+  - architecture/timeMachine_models/state_models.yaml
+
+

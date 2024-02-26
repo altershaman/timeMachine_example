@@ -1,0 +1,52 @@
+seaf.horizons:
+
+  2024.whole:
+    title: 2024 год
+    begins: 2024-01-01
+    ends: 2024-12-31
+
+  2024.q1:
+    title: 2024 Q1
+    begins: 2024-01-01
+    ends: 2024-03-31
+
+  2024.q2:
+    title: 2024 Q2
+    begins: 2024-04-01
+    ends: 2024-06-30
+  
+  2024.q3:
+    title: 2024 Q3
+    begins: 2024-07-01
+    ends: 2024-09-30
+  
+  2024.q4:
+    title: 2024 Q4
+    begins: 2024-10-01
+    ends: 2024-12-31
+  
+  2025.whole:
+    title: 2025 год
+    begins: 2025-01-01
+    ends: 2025-12-31
+
+  2025.q1:
+    title: 2025 Q1
+    begins: 2025-01-01
+    ends: 2025-03-31
+
+  2025.q2:
+    title: 2025 Q2
+    begins: 2025-04-01
+    ends: 2025-06-30
+  
+  2025.q3:
+    title: 2025 Q3
+    begins: 2025-07-01
+    ends: 2025-09-30
+  
+  2025.q4:
+    title: 2025 Q4
+    begins: 2025-10-01
+    ends: 2025-12-31
+

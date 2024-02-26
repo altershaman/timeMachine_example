@@ -1,0 +1,27 @@
+seaf.state_models:
+
+  products.life_cycle:
+    title: ЖЦ Продукта
+    description: Модель для внешних продуктов
+
+seaf.states:
+
+  products.life_cycle.poc:
+    title: PoC
+    description: Proof Of Concept
+    model: products.life_cycle
+
+  products.life_cycle.dev:
+    title: В разработке
+    description: Разработка начата
+    model: products.life_cycle
+
+  products.life_cycle.prom:
+    title: Эксплуатация
+    description: Промышленная эксплуатация
+    model: products.life_cycle
+    
+  products.life_cycle.shut_down:
+    title: Выведение из эксплуатации
+    description: 
+    model: products.life_cycle
